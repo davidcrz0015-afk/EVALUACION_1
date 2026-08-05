@@ -1,4 +1,5 @@
-Hola Soy Juan David Cruz Chipiaje 
+Hola Soy Juan David Cruz Chipiaje ![IMG1](./Capturas/H Foto Personal.png)
+
 
 Tengo 18 años, Nací el 28 de Noviembre del año 2007 en el departamento de Casanare, Actualmente me encuentro estudiando Ingenieria 
 Aeronautica y esoty cursando el segundo semestre 
